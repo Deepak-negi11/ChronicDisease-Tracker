@@ -2,6 +2,8 @@
 
 A web platform where patients with long-term conditions keep their diseases, timestamped health measurements, symptoms, medications, appointments and threshold-based alerts in one record, and where authorised doctors review the same trends. Analytics and alerts are rule-based and informational. The application does not diagnose.
 
+Live Demo : https://chronicdisease-tracker.netlify.app/
+
 ## Screenshots
 
 ### Landing page
