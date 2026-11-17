@@ -2,6 +2,18 @@
 
 A web platform where patients with long-term conditions keep their diseases, timestamped health measurements, symptoms, medications, appointments and threshold-based alerts in one record, and where authorised doctors review the same trends. Analytics and alerts are rule-based and informational. The application does not diagnose.
 
+## Screenshots
+
+### Landing page
+
+![Landing page introducing the chronic disease tracker](./docs/screenshots/landing-page.png)
+
+### Dashboard
+
+Patient dashboard with demo data.
+
+![Patient dashboard showing health metrics, trends, alerts and recent records](./docs/screenshots/dashboard.png)
+
 ## What works today
 
 The landing page, sign-in and registration, and an app shell with role-aware navigation (Patient, Doctor, Admin) are in place. Five screens are fully interactive:
